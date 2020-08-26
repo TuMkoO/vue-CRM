@@ -2,5 +2,7 @@
 
 https://tumkoo.github.io/vue-crm/
 
-Login: v@mail.ru
+Домашняя бухгалтерия <br>
+Для входа:<br>
+Login: v@mail.ru <br>
 Password: 123456
